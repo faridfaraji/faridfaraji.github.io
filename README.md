@@ -1,3 +1,3 @@
 
-Check it out https://faridfaraji.github.io/my-app/
+Check it out https://faridfaraji.github.io/website/
 Contents are still being added.
